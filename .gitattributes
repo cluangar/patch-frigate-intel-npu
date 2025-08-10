@@ -1,0 +1,2 @@
+Models/yolo_nas_s_320x320/yolo_nas_s_320x320.xml filter=lfs diff=lfs merge=lfs -text
+Models/yolo_nas_s_320x320/yolo_nas_s_320x320.bin filter=lfs diff=lfs merge=lfs -text

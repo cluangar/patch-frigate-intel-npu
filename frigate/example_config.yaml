@@ -1,0 +1,16 @@
+detectors:
+  ov:
+    type: openvino
+    device: NPU
+
+
+model:
+  model_type: yolonas
+  path: /config/models/yolo_nas_s_320x320/yolo_nas_s_320x320.xml
+
+  width: 320
+  height: 320
+  input_pixel_format: bgr
+  input_tensor: nchw
+
+  labelmap_path: /labelmap/coco-80.txt
