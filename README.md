@@ -1,9 +1,11 @@
 # How to patch Or Download Custom Docker
-**#Patch**
+**Patch**
 1. Edit $CONTAINER_NAME in frigate_build_mod.sh
 2. Run original frigate docker #Same $CONTAINER_NAME
 3. Run frigate_build_mod.sh
-**#Download**
+
+**Download**
+
 docker pull cluangar/frigate:0.16.0-rc2-npu
 
 # Example Run Docker
