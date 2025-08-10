@@ -29,3 +29,5 @@ sudo docker run -it --rm --privileged \
 --cap-add=CAP_PERFMON \
 frigate:0.16.0-rc2-npu
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c334aba-91f2-4e22-88ac-b068e5b5c637" />
+
