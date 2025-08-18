@@ -6,7 +6,7 @@
 
 **Download**
 
-docker pull cluangar/frigate:0.16.0-rc2-npu
+docker pull cluangar/frigate:0.16.0-rc2-npu or docker pull cluangar/frigate:0.16.0
 
 # Example Run Docker
 sudo docker run -it --rm --privileged \
